@@ -1,5 +1,7 @@
 #Vim Wiki Index
 
+[Gists](gists/gists.md)
+
 [UFW](ufw/ufw.md)
 
 [Docker](docker/docker.md)
