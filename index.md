@@ -1,6 +1,6 @@
 #Vim Wiki Index
 
-[Gists](gists/gists.md)
+[Gists](gists/index.md)
 
 [UFW](ufw/ufw.md)
 
